@@ -1,12 +1,11 @@
 How to Increase Your Capacity or Number of Services
-====================================
+====================================================
 
 The number of plans you can create is limited by the service limits set in your organization. For example, free users are only able to create free service plans. For enterprise users, your organization may also be limited in the number of services that can be created.
 
 
 Requesting a Service Limit Increase from PubSub+ Cloud Console
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+---------------------------------------------------------------
 
 1. Login into Solace Cloud
 
