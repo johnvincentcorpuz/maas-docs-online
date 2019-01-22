@@ -10,7 +10,7 @@ Requesting a Service Limit Increase from PubSub+ Cloud Console
 
 1. Login into Solace Cloud
 
-2. Click on Account on the top menu, and service limits tab on under Account Details
+2. Click Account on the top menu, and the Service Limits tab under Account Details
 
 .. image:: ../img/ght_nav_manage_service_limits.jpg
    :target: https://console.solace.cloud/account-details/service-limits
@@ -19,7 +19,7 @@ Requesting a Service Limit Increase from PubSub+ Cloud Console
 
 .. image:: ../img/ght_request_service_increase.jpg
 
-4. A dialog box will then show up, you may then specify the number of services you would require, and any accompanying details.
+4. A dialog box will then show up, you may then specify the number of services you require, and any accompanying details.
 Click on "Send Request".
 
 .. image:: ../img/ght_service_limit_increase_dialog.jpg
